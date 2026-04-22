@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nestor Portela @nportCS2024.
-- 👀 I’m interested in coding/gaming/rollerblading/iceskating/skateboarding, and basically anything physically.
+- 👀 I’m interested in coding, gaming, rollerblading, iceskating, skateboarding, and basically anything physically.
 - 🌱 I’m a curious learner in the growing trends that is technology, familiarizing myself with the latest Software Stacks.
 - 💞️ I’m looking to collaborate on any development of a web application or software.
 - 📫 How to reach me, my email is nestorportelacs2024@gmail.com
